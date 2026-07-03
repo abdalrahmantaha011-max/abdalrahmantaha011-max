@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Python+Developer;Data+Analyst;Future+Machine+Learning+Engineer;Always+Learning+New+Things+🚀"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Python+Developer;Data+Analyst;Future+Machine+Learning+Engineer;Always+Learning+New+Things+"/>
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode"/>
 
 </p>
 
